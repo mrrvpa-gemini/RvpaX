@@ -1,0 +1,35 @@
+# RVPA Configuration File
+# Located at ~/.rvpa/config.yaml
+
+# HTTP Client Settings
+http:
+  # Request timeout in seconds
+  timeout: 30
+  
+  # Number of retries for failed requests
+  retries: 3
+  
+  # Custom user agent
+  user_agent: "RVPA/1.0 (Security Auditing Tool)"
+
+# Scanning Preferences
+scan:
+  # Number of concurrent threads
+  threads: 20
+  
+  # Enable deep scanning by default
+  deep_scan: false
+  
+  # Timeout per request in seconds
+  timeout: 30
+
+# Output Preferences
+output:
+  # Generate JSON report
+  json: false
+  
+  # Generate HTML report
+  html: false
+  
+  # Output format: text, json, html
+  format: text
