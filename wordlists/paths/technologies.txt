@@ -1,0 +1,248 @@
+Apache
+Nginx
+IIS
+LightHttpd
+Caddy
+HaProxy
+F5 BigIP
+Citrix NetScaler
+A10 Networks
+AkamaiGhost
+Cloudflare
+Akamai
+Level3
+Limelight
+Edgecast
+Fastly
+CloudFront
+Rackspace
+HighWinds
+MediaTemple
+Optimizely
+Conversant
+VerySign
+DMCA
+Omniture
+Google Analytics
+Mixpanel
+Kissmetrics
+Intercom
+Freshdesk
+Zendesk
+Salesforce
+HubSpot
+Marketo
+Oracle
+SAP
+Microsoft Dynamics
+SugarCRM
+Joomla
+Drupal
+WordPress
+Magento
+PrestaShop
+OpenCart
+ZenCart
+OsCommerce
+Cscart
+BigCommerce
+Shopify
+WooCommerce
+VirtueMart
+K2
+VirtueMart
+PHPShop
+php-commerce
+Adminpanel
+PHP
+Python
+Node.js
+Java
+Ruby
+C#
+C++
+Go
+Rust
+Ruby on Rails
+Django
+Flask
+FastAPI
+AdonisJS
+Express.js
+NestJS
+Fastify
+Spring Boot
+Apache Struts
+Apache Tapestry
+Grails
+Play Framework
+Akka
+Play2
+ASP.NET
+ASP.NET Core
+ASP.NET MVC
+ASP.NET WebForms
+ASP.NET Web API
+ASP.NET SignalR
+ASP.NET Entity Framework
+Classic ASP
+PHP
+PHP 5
+PHP 7
+PHP 8
+Laravel
+Symfony
+Yii
+Zend Framework
+CakePHP
+CodeIgniter
+Fuel PHP
+Slim
+FatFree Framework
+Phalcon
+PHP-MVC
+ZF2
+ZF3
+Composer
+Pearl
+Smarty
+Twig
+Blade
+Handlebars
+EJS
+Pug
+Jade
+Velocity
+FreeMarker
+Jinja
+Jinja2
+Mako
+Cheetah
+Genshi
+Kid
+Kvaser
+Kabriel
+Rhino
+Nashorn
+Graal
+V8
+SpiderMonkey
+JavaScriptCore
+Chakra
+JerryScript
+Duktape
+MuJS
+QuickJS
+XS
+WXML
+ATOM
+RSS
+JSON
+XML
+CSV
+YAML
+TOML
+INI
+XML-RPC
+JSON-RPC
+SOAP
+REST
+GraphQL
+WebSocket
+WebSocket++
+Socket.io
+SignalR
+Long Polling
+Server Sent Events
+Server-Sent Events
+HTTP/2
+HTTP/3
+QUIC
+SPDY
+HTTP/1.1
+HTTP/1.0
+FTP
+SMTP
+POP3
+IMAP
+DNS
+DHCP
+LDAP
+Kerberos
+OAuth
+OpenID
+OAuth2
+OpenID Connect
+SAML
+JWT
+Cookie
+Session
+Token
+Bearer Token
+Basic Auth
+Digest Auth
+MTLS
+SSL
+TLS
+1.0
+1.1
+1.2
+1.3
+SSH
+SFTP
+SCP
+RDP
+VNC
+HTTPS
+SVN
+Git
+Mercurial
+Bazaar
+Monotone
+CVS
+Perforce
+ClearCase
+VSS
+TeamFoundationServer
+GitHub
+GitLab
+Bitbucket
+SourceForge
+Google Code
+CodePlex
+Launchpad
+RubyForge
+Gem Server
+NPM
+PyPI
+RubyGems
+NuGet
+Maven
+Gradle
+SBT
+Bazel
+Buck
+OkBuild
+Waf
+CMake
+Automake
+Autoconf
+Make
+Ninja
+Tup
+Scons
+Cons
+JamPlus
+Rakefile
+Gulp
+Grunt
+Broccoli
+Webpack
+Rollup
+Parcel
+Brunch
+Vite
+Esbuild
+Swc
+Rust
+Turbopack
